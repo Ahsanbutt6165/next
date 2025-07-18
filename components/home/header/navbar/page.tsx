@@ -47,7 +47,7 @@ const Navbar = () => {
               dc
             </Link>
             <Link
-              href={"/Dashboard"}
+              href={"/dashboard"}
               className="text-sm font-medium text-foreground"
             >
               Dashboard
